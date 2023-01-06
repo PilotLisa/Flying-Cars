@@ -141,20 +141,20 @@ P _gear/0/_gear_can_retract 1
 P _gear/0/_gear_castors 0
 P _gear/0/_gear_def_empty 0.0
 P _gear/0/_gear_def_gross 0.0
-P _gear/0/_gear_load_fraction 0.266912371
+P _gear/0/_gear_load_fraction 0.335105717
 P _gear/0/_gear_type 3
 P _gear/0/_gear_x 0.0
 P _gear/0/_gear_y -0.899999976
 P _gear/0/_gear_z -6.199999809
 P _gear/0/_latE 9.0
-P _gear/0/_latN 1.143321276
+P _gear/0/_latN 6.375465870
 P _gear/0/_latR 1.0
 P _gear/0/_leg_len 1.0
 P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 3333333.750000000
-P _gear/0/_stat_def 0.804245651
+P _gear/0/_stat_def 1.437395811
 P _gear/0/_steerdeg_hispeed 2.0
 P _gear/0/_steerdeg_lospeed 35.0
 P _gear/0/_strut_comp 0.0
@@ -175,20 +175,20 @@ P _gear/1/_gear_can_retract 1
 P _gear/1/_gear_castors 0
 P _gear/1/_gear_def_empty 0.0
 P _gear/1/_gear_def_gross 0.0
-P _gear/1/_gear_load_fraction 0.366543829
+P _gear/1/_gear_load_fraction 0.332447112
 P _gear/1/_gear_type 6
 P _gear/1/_gear_x 2.200000048
 P _gear/1/_gear_y -0.409999996
 P _gear/1/_gear_z -2.0
 P _gear/1/_latE 0.0
-P _gear/1/_latN -68.745941162
+P _gear/1/_latN -22.964672089
 P _gear/1/_latR -70.0
 P _gear/1/_leg_len 1.200000048
 P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 3333333.750000000
-P _gear/1/_stat_def 1.047762275
+P _gear/1/_stat_def 1.396456361
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -209,20 +209,20 @@ P _gear/2/_gear_can_retract 1
 P _gear/2/_gear_castors 0
 P _gear/2/_gear_def_empty 0.0
 P _gear/2/_gear_def_gross 0.0
-P _gear/2/_gear_load_fraction 0.366543829
+P _gear/2/_gear_load_fraction 0.332447112
 P _gear/2/_gear_type 6
 P _gear/2/_gear_x -2.200000048
 P _gear/2/_gear_y -0.409999996
 P _gear/2/_gear_z -2.0
 P _gear/2/_latE 0.0
-P _gear/2/_latN 68.745941162
+P _gear/2/_latN 22.964672089
 P _gear/2/_latR 70.0
 P _gear/2/_leg_len 1.200000048
 P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 3333333.750000000
-P _gear/2/_stat_def 1.047762275
+P _gear/2/_stat_def 1.396456361
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -244,7 +244,7 @@ P _lite/count 0
 P _lite_equip/_land_lite_off_on_retract_EQ 0
 P _lite_equip/_taxi_lite_off_on_retract_EQ 0
 P _obja/count 0
-P _panel_inst_3d 0
+P _panel_inst_3d 9
 P _part/0/_bot_s1 0.0
 P _part/0/_bot_s2 0.015625000
 P _part/0/_bot_t1 0.255859375
@@ -560,7 +560,7 @@ P _part/0/_geo_xyz/13,4,1 0.000179167
 P _part/0/_geo_xyz/13,4,2 0.000716667
 P _part/0/_geo_xyz/13,5,0 0.007000000
 P _part/0/_geo_xyz/13,5,1 0.000081439
-P _part/0/_geo_xyz/13,5,2 0.001791667
+P _part/0/_geo_xyz/13,5,2 0.001791666
 P _part/0/_geo_xyz/13,6,0 0.007000000
 P _part/0/_geo_xyz/13,6,1 0.0
 P _part/0/_geo_xyz/13,6,2 0.002687500
@@ -569,7 +569,7 @@ P _part/0/_geo_xyz/13,7,1 0.0
 P _part/0/_geo_xyz/13,7,2 0.002687500
 P _part/0/_geo_xyz/13,8,0 0.007000000
 P _part/0/_geo_xyz/13,8,1 -0.000081439
-P _part/0/_geo_xyz/13,8,2 0.001791667
+P _part/0/_geo_xyz/13,8,2 0.001791666
 P _part/0/_geo_xyz/13,9,0 0.007000000
 P _part/0/_geo_xyz/13,9,1 -0.000179167
 P _part/0/_geo_xyz/13,9,2 0.000716667
@@ -614,7 +614,7 @@ P _part/0/_geo_xyz/14,4,1 0.000179167
 P _part/0/_geo_xyz/14,4,2 0.000716667
 P _part/0/_geo_xyz/14,5,0 0.007000000
 P _part/0/_geo_xyz/14,5,1 0.000081439
-P _part/0/_geo_xyz/14,5,2 0.001791667
+P _part/0/_geo_xyz/14,5,2 0.001791666
 P _part/0/_geo_xyz/14,6,0 0.007000000
 P _part/0/_geo_xyz/14,6,1 0.0
 P _part/0/_geo_xyz/14,6,2 0.002687500
@@ -623,7 +623,7 @@ P _part/0/_geo_xyz/14,7,1 0.0
 P _part/0/_geo_xyz/14,7,2 0.002687500
 P _part/0/_geo_xyz/14,8,0 0.007000000
 P _part/0/_geo_xyz/14,8,1 -0.000081439
-P _part/0/_geo_xyz/14,8,2 0.001791667
+P _part/0/_geo_xyz/14,8,2 0.001791666
 P _part/0/_geo_xyz/14,9,0 0.007000000
 P _part/0/_geo_xyz/14,9,1 -0.000179167
 P _part/0/_geo_xyz/14,9,2 0.000716667
@@ -1208,7 +1208,7 @@ P _part/0/_geo_xyz/7,4,1 0.000316667
 P _part/0/_geo_xyz/7,4,2 0.001266667
 P _part/0/_geo_xyz/7,5,0 0.004000000
 P _part/0/_geo_xyz/7,5,1 0.000143939
-P _part/0/_geo_xyz/7,5,2 0.003166667
+P _part/0/_geo_xyz/7,5,2 0.003166666
 P _part/0/_geo_xyz/7,6,0 0.004000000
 P _part/0/_geo_xyz/7,6,1 0.0
 P _part/0/_geo_xyz/7,6,2 0.004750000
@@ -1217,7 +1217,7 @@ P _part/0/_geo_xyz/7,7,1 0.0
 P _part/0/_geo_xyz/7,7,2 0.004750000
 P _part/0/_geo_xyz/7,8,0 0.004000000
 P _part/0/_geo_xyz/7,8,1 -0.000143939
-P _part/0/_geo_xyz/7,8,2 0.003166667
+P _part/0/_geo_xyz/7,8,2 0.003166666
 P _part/0/_geo_xyz/7,9,0 0.004000000
 P _part/0/_geo_xyz/7,9,1 -0.000316667
 P _part/0/_geo_xyz/7,9,2 0.001266667
@@ -1262,7 +1262,7 @@ P _part/0/_geo_xyz/8,4,1 0.000316667
 P _part/0/_geo_xyz/8,4,2 0.001266667
 P _part/0/_geo_xyz/8,5,0 0.004000000
 P _part/0/_geo_xyz/8,5,1 0.000143939
-P _part/0/_geo_xyz/8,5,2 0.003166667
+P _part/0/_geo_xyz/8,5,2 0.003166666
 P _part/0/_geo_xyz/8,6,0 0.004000000
 P _part/0/_geo_xyz/8,6,1 0.0
 P _part/0/_geo_xyz/8,6,2 0.004750000
@@ -1271,7 +1271,7 @@ P _part/0/_geo_xyz/8,7,1 0.0
 P _part/0/_geo_xyz/8,7,2 0.004750000
 P _part/0/_geo_xyz/8,8,0 0.004000000
 P _part/0/_geo_xyz/8,8,1 -0.000143939
-P _part/0/_geo_xyz/8,8,2 0.003166667
+P _part/0/_geo_xyz/8,8,2 0.003166666
 P _part/0/_geo_xyz/8,9,0 0.004000000
 P _part/0/_geo_xyz/8,9,1 -0.000316667
 P _part/0/_geo_xyz/8,9,2 0.001266667
@@ -7584,7 +7584,7 @@ P _part/85/_part_specs_invis 0
 P _part/85/_part_tex 0
 P _part/85/_part_the 0.0
 P _part/85/_part_x 0.156434491
-P _part/85/_part_y -1.083442688
+P _part/85/_part_y -0.450292587
 P _part/85/_part_z -6.199999809
 P _part/85/_patt_con 0
 P _part/85/_patt_prt 0
@@ -9054,7 +9054,7 @@ P _part/86/_part_specs_invis 0
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 2.200000048
-P _part/86/_part_y -0.562237740
+P _part/86/_part_y -0.213543653
 P _part/86/_part_z -2.0
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -10524,7 +10524,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -2.200000048
-P _part/87/_part_y -0.562237740
+P _part/87/_part_y -0.213543653
 P _part/87/_part_z -2.0
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -12175,10 +12175,10 @@ P _wing/0/_chord_for_RIB/10 0.000833333
 P _wing/0/_chord_for_RIB/2 0.008166666
 P _wing/0/_chord_for_RIB/3 0.007250000
 P _wing/0/_chord_for_RIB/4 0.006333333
-P _wing/0/_chord_for_RIB/5 0.005416667
+P _wing/0/_chord_for_RIB/5 0.005416666
 P _wing/0/_chord_for_RIB/6 0.004500000
 P _wing/0/_chord_for_RIB/7 0.003583333
-P _wing/0/_chord_for_RIB/8 0.002666667
+P _wing/0/_chord_for_RIB/8 0.002666666
 P _wing/0/_chord_for_RIB/9 0.001750000
 P _wing/0/_chord_for_RIB/count 11
 P _wing/0/_crib_x_arm/0 0.0
@@ -15935,7 +15935,7 @@ P acf/_ground_pwr/0 0.0
 P acf/_ground_pwr/1 0.0
 P acf/_ground_pwr/2 0.0
 P acf/_ground_pwr/count 3
-P acf/_h_eqlbm 0.643452585
+P acf/_h_eqlbm 0.528827846
 P acf/_has_ADG 0
 P acf/_has_APU_bleed_air 1
 P acf/_has_APU_generator 1
@@ -16636,7 +16636,7 @@ P acf/_tank_xyz_full/8,1 0.0
 P acf/_tank_xyz_full/8,2 0.0
 P acf/_tank_xyz_full/i_count 9
 P acf/_tank_xyz_full/j_count 3
-P acf/_the_eqlbm 7.640858173
+P acf/_the_eqlbm 3.670379639
 P acf/_thro_non_vect_props_at_sin_vect 0
 P acf/_thro_x_ctr 0.0
 P acf/_throt_max_fwd_emr 1.0
@@ -16805,9 +16805,89 @@ P acf/_yel_lo_xmsn_P 0
 P acf/_yel_lo_xmsn_T 0
 PROPERTIES_END
 PANEL_2D_BEGIN
+rad_GPS_530_2d Garmin_530_2d.png
+  POS 483.000000 175.000000
+  DATAREF 
+  SIZE 0.700000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+HUD_airspeed HUD_airspeed.png
+  POS 216.000000 598.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+HUD_altitude HUD_altitude.png
+  POS 759.000000 591.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+HUD_asi_trend HUD_asi_trend.png
+  POS 242.000000 596.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+HUD_horizon HUD_horizon.png
+  POS 482.000000 590.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+han_flap_act_HM han_flap_HM.png
+  POS 840.500000 303.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+gen_handle gen_handle.png
+  POS 841.000000 98.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 -50.000000 1.000000
+  KEY_FRAME 1.000000 50.000000
+  CLICK_RADIUS 10.000000
+  HAS_DETENTS 0
+
+ann_master_caution ann_master_caution.
+  POS 300.500000 406.000000
+  DATAREF 
+  SIZE 1.500000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+ann_master_warning ann_master_warning.
+  POS 382.000000 406.000000
+  DATAREF 
+  SIZE 1.500000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
 PANEL_2D_END
 PANEL_3D_BEGIN
-GROUP Captain PFD
-  LOCKED
-END_GROUP
 PANEL_3D_END
