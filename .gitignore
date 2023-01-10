@@ -4,7 +4,7 @@
 *.psd
 
 ### Planemaker temp ###
-.acf~
+*.acf~
 
 ### macOS ###
 # General
@@ -14,4 +14,3 @@
 
 ### XFMC ###
 *.cfg
-*.acf~
