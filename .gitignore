@@ -1,0 +1,16 @@
+### 3DModel and PSD ###
+*.blend
+*.blend1
+*.psd
+
+### Planemaker temp ###
+.acf~
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### XFMC ###
+*.cfg
